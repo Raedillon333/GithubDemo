@@ -1,0 +1,19 @@
+{
+    "log_in_page_—_mobile": {
+        "log_in_with_sso": "Iniciar sesión con SSO",
+        "log_in": "Acceso",
+        "username": "Nombre de usuario",
+        "log_in_with_google": "Iniciar sesión con Google"
+    },
+    "sign_up_page_—_mobile": {
+        "better": "Mejor",
+        "sign_up_with_google": "Regístrate con Google",
+        "sign_up": "Inscribirse",
+        "password": "Contraseña",
+        "full_name": "Nombre completo",
+        "by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Al registrarse, acepta nuestras <u> Condiciones de servicio <\/u> y <u> Política de privacidad <\/u> .",
+        "looking_to_join_an_existing_team_instead?_log_in": "¿Quieres unirte a un equipo existente? Acceso",
+        "e-mail": "Correo electrónico",
+        "or_sign_up_with_your_email": "O regístrate con tu correo electrónico "
+    }
+}
