@@ -1,0 +1,34 @@
+{
+    "group_843": {
+        "group_907": {
+            "log_in": "Login"
+        }
+    },
+    "log_in_page_—_mobile": {
+        "password": "Parola d'ordine",
+        "log_in_with_sso": "Accedi con SSO",
+        "username": "Nome utente",
+        "john@better.com": "giovanni@better.com",
+        "group_894": {
+            "group_905": {
+                "log_in_with_google": "Accedi con Google"
+            }
+        }
+    },
+    "sign_up_page_—_mobile": {
+        "looking_to_join_an_existing_team_instead?_log_in": "Vuoi invece unirti a un team esistente? Login",
+        "•••••••••••••": "••••••••••••••",
+        "sign_up": "Iscrizione",
+        "or_sign_up_with_your_email": "Oppure registrati con la tua email ",
+        "input": {
+            "better": "Meglio"
+        },
+        "group_894": {
+            "sign_up_with_google": "Iscriviti con Google"
+        },
+        "better@lokalise.com": "better@lokalise.com",
+        "full_name": "Nome e cognome",
+        "by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Iscrivendoti, accetti i nostri <u> Termini di servizio <\/u> e la <u> Informativa sulla privacy <\/u> .",
+        "e-mail": "E-mail"
+    }
+}
