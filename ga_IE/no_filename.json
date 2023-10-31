@@ -1,0 +1,19 @@
+{
+    "log_in_page_—_mobile": {
+        "log_in_with_sso": "Logáil isteach le SSO",
+        "log_in": "Logáil isteach",
+        "username": "Ainm úsáideora",
+        "log_in_with_google": "Logáil Isteach le Google"
+    },
+    "sign_up_page_—_mobile": {
+        "better": "Níos fearr",
+        "sign_up_with_google": "Cláraigh le Google",
+        "sign_up": "Clarú",
+        "password": "Pasfhocal",
+        "full_name": "Ainm iomlán",
+        "by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Trí chlárú, glacann tú lenár <u> Téarmaí Seirbhíse <\/u> agus <u> Beartas Príobháideachta <\/u> .",
+        "looking_to_join_an_existing_team_instead?_log_in": "Ag iarraidh dul isteach i bhfoireann atá ann cheana féin ina ionad sin? Logáil isteach",
+        "e-mail": "Ríomhphost",
+        "or_sign_up_with_your_email": "Nó cláraigh le do ríomhphost "
+    }
+}
