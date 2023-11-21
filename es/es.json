@@ -1,0 +1,23 @@
+{
+    "menu": {
+        "home": "",
+        "about": "",
+        "privacy": ""
+    },
+    "main": {
+        "welcome": "",
+        "about": "",
+        "new_message": "",
+        "tms": "",
+        "g2": "",
+        "get2know": "",
+        "get2know_message": "Nuestro objetivo es eliminar la molestia de la localización proporcionando herramientas para automatizar, integrar y gestionar mejor sus traducciones. Lokalise es una mejor manera para que las empresas orientadas al crecimiento expandan sus aplicaciones móviles, juegos, software o contenido digital a\n múltiples idiomas.",
+        "sign-in": "Inicia sesión con Google",
+        "register-button": "Registro",
+        "this-is-a-demo-key": "Hola",
+        "abc-key": "adiós"
+    },
+    "about": {
+        "welcome": "¡Bienvenido a la página Acerca de!"
+    }
+}
