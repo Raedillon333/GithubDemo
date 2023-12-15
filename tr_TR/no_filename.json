@@ -1,0 +1,16 @@
+{
+    "sign_up_page_—_mobile:full_name": "Ad Soyad",
+    "sign_up_page_—_mobile:password": "Şifre",
+    "sign_up_page_—_mobile:sign_up": "Üye olmak",
+    "sign_up_page_—_mobile:by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Kaydolarak <u> Hizmet Şartlarımızı <\/u> ve <u> Gizlilik Politikamızı <\/u> kabul etmiş olursunuz.",
+    "log_in_page_—_mobile:log_in": "Giriş yapmak",
+    "sign_up_page_—_mobile:looking_to_join_an_existing_team_instead?_log_in": "Bunun yerine mevcut bir ekibe katılmak mı istiyorsunuz? Giriş yapmak",
+    "sign_up_page_—_mobile:e-mail": "E-posta",
+    "log_in_page_—_mobile:john@better.com": "john@better.com",
+    "log_in_page_—_mobile:log_in_with_sso": "SSO ile giriş yapın",
+    "log_in_page_—_mobile:username": "Kullanıcı adı",
+    "log_in_page_—_mobile:log_in_with_google": "Google ile Giriş Yapın",
+    "sign_up_page_—_mobile:or_sign_up_with_your_email": "Veya e-postanızla kaydolun ",
+    "sign_up_page_—_mobile:better": "Daha iyi",
+    "sign_up_page_—_mobile:sign_up_with_google": "Google'a kaydolun"
+}

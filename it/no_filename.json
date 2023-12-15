@@ -1,19 +1,16 @@
 {
-    "log_in_page_—_mobile": {
-        "log_in_with_sso": "Accedi con SSO",
-        "log_in": "Login",
-        "username": "Nome utente",
-        "log_in_with_google": "Accedi con Google"
-    },
-    "sign_up_page_—_mobile": {
-        "better": "Meglio",
-        "sign_up_with_google": "Iscriviti con Google",
-        "sign_up": "Iscrizione",
-        "password": "Parola d'ordine",
-        "full_name": "Nome e cognome",
-        "by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Iscrivendoti, accetti i nostri Termini di servizio e l'Informativa sulla privacy.",
-        "looking_to_join_an_existing_team_instead?_log_in": "Vuoi invece unirti a un team esistente? Login",
-        "e-mail": "E-mail",
-        "or_sign_up_with_your_email": "Oppure registrati con la tua email "
-    }
+    "sign_up_page_—_mobile:full_name": "Nome e cognome",
+    "sign_up_page_—_mobile:password": "Parola d'ordine",
+    "sign_up_page_—_mobile:sign_up": "Iscrizione",
+    "sign_up_page_—_mobile:by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Iscrivendoti, accetti i nostri <u> Termini di servizio <\/u> e la <u> Informativa sulla privacy <\/u> .",
+    "log_in_page_—_mobile:log_in": "Login",
+    "sign_up_page_—_mobile:looking_to_join_an_existing_team_instead?_log_in": "Vuoi invece unirti a un team esistente? Login",
+    "sign_up_page_—_mobile:e-mail": "E-mail",
+    "log_in_page_—_mobile:john@better.com": "giovanni@better.com",
+    "log_in_page_—_mobile:log_in_with_sso": "Accedi con SSO",
+    "log_in_page_—_mobile:username": "Nome utente",
+    "log_in_page_—_mobile:log_in_with_google": "Accedi con Google",
+    "sign_up_page_—_mobile:or_sign_up_with_your_email": "Oppure registrati con la tua email",
+    "sign_up_page_—_mobile:better": "Meglio",
+    "sign_up_page_—_mobile:sign_up_with_google": "Iscriviti con Google"
 }
