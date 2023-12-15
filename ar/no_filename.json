@@ -1,0 +1,16 @@
+{
+    "sign_up_page_—_mobile:full_name": "الاسم الكامل",
+    "sign_up_page_—_mobile:password": "كلمة المرور",
+    "sign_up_page_—_mobile:sign_up": "اشتراك",
+    "sign_up_page_—_mobile:by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "من خلال التسجيل، فإنك تقبل <u> شروط الخدمة <\/u> و <u> سياسة الخصوصية <\/u> .",
+    "log_in_page_—_mobile:log_in": "تسجيل الدخول",
+    "sign_up_page_—_mobile:looking_to_join_an_existing_team_instead?_log_in": "هل تتطلع إلى الانضمام إلى فريق حالي بدلاً من ذلك؟ تسجيل الدخول",
+    "sign_up_page_—_mobile:e-mail": "بريد إلكتروني",
+    "log_in_page_—_mobile:john@better.com": "جون@better.com",
+    "log_in_page_—_mobile:log_in_with_sso": "تسجيل الدخول باستخدام SSO",
+    "log_in_page_—_mobile:username": "اسم المستخدم",
+    "log_in_page_—_mobile:log_in_with_google": "تسجيل الدخول عبر جوجل",
+    "sign_up_page_—_mobile:or_sign_up_with_your_email": "أو قم بالتسجيل باستخدام بريدك الإلكتروني ",
+    "sign_up_page_—_mobile:better": "أحسن",
+    "sign_up_page_—_mobile:sign_up_with_google": "قم بالتسجيل مع جوجل"
+}
