@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "home": "Ana Sayfa",
+        "about": "Hakkında",
+        "privacy": "Gizlilik Politikası"
+    },
+    "main": {
+        "welcome": "Lokalise'den Merhaba!",
+        "about": "Biz hakkında",
+        "new_message": "hiç mesaj yok | bir mesaj | {count} mesaj",
+        "tms": "Lokalise bir TMS'dir",
+        "g2": "G2'de hakkımızda okuyun",
+        "get2know": "Lokalise'yi daha iyi tanıyın",
+        "get2know_message": "Amacımız çevirilerinizi otomatikleştirmeye, entegre etmeye ve daha iyi yönetmeye yönelik araçlar sağlayarak yerelleştirme sorununu ortadan kaldırmaktır. Lokalise, büyüme odaklı şirketlerin mobil uygulamalarını, oyunlarını, yazılımlarını veya dijital içeriklerini genişletmeleri için daha iyi bir yoldur.\n birden fazla dil.",
+        "sign-in": "Google ile giriş yap",
+        "register-button": "Kayıt olmak",
+        "this-is-a-demo-key": "Merhaba"
+    },
+    "about": {
+        "welcome": "Hakkında sayfasına hoş geldiniz!"
+    }
+}
