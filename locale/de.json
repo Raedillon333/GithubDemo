@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "home": "Zuhause",
+        "about": "Über",
+        "privacy": "Datenschutzrichtlinie"
+    },
+    "main": {
+        "welcome": "Hallo von Lokalise!",
+        "about": "Über uns",
+        "new_message": "keine Nachrichten | eine Nachricht | {count} Nachrichten",
+        "tms": "Lokalise ist ein TMS",
+        "g2": "Lesen Sie über uns auf G2",
+        "get2know": "Lernen Sie Lokalise besser kennen",
+        "get2know_message": "Unser Ziel ist es, den Aufwand der Lokalisierung zu eliminieren, indem wir Tools zur Automatisierung, Integration und besseren Verwaltung Ihrer Übersetzungen bereitstellen. Lokalise ist ein besserer Weg für wachstumsorientierte Unternehmen, ihre mobilen Apps, Spiele, Software oder digitalen Inhalte in mehrere Sprachen zu erweitern.",
+        "sign-in": "Mit Google anmelden",
+        "register-button": "Registrieren",
+        "this-is-a-demo-key": "Hallo"
+    },
+    "about": {
+        "welcome": "Willkommen auf der Über uns Seite!"
+    }
+}
