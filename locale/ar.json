@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "home": "",
+        "about": "",
+        "privacy": ""
+    },
+    "main": {
+        "welcome": "",
+        "about": "",
+        "new_message": "",
+        "tms": "",
+        "g2": "",
+        "get2know": "",
+        "get2know_message": "",
+        "sign-in": "",
+        "register-button": "يسجل",
+        "this-is-a-tobii-demo-key": "رسالة صغيرة"
+    },
+    "about": {
+        "welcome": "مرحبا بكم في صفحة حول!"
+    }
+}
