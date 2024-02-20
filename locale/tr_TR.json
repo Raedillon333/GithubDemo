@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "home": "",
+        "about": "",
+        "privacy": ""
+    },
+    "main": {
+        "welcome": "",
+        "about": "",
+        "new_message": "",
+        "tms": "",
+        "g2": "",
+        "get2know": "",
+        "get2know_message": "",
+        "sign-in": "",
+        "register-button": "Kayıt olmak",
+        "this-is-a-tobii-demo-key": "küçük mesaj"
+    },
+    "about": {
+        "welcome": "Hakkında sayfasına hoş geldiniz!"
+    }
+}
