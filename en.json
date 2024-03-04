@@ -15,7 +15,8 @@
         "sign-in": "Sign-in with Google",
         "register-button": "Register",
         "this-is-a-tobii-demo-key": "small message", 
-        "demo-key-konnect": "konnect message"
+        "demo-key-konnect": "konnect message",
+        "demo-key-purple" : "hello-purple"
        
      
     },
