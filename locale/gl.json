@@ -1,0 +1,41 @@
+{
+    "group_843__log_in": "Acceder",
+    "log_in_page_—_mobile__password": "Contrasinal",
+    "log_in_page_—_mobile__log_in_with_sso": "Inicia sesión con SSO",
+    "log_in_page_—_mobile__username": "Nome de usuario",
+    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "Buscas unirte a un equipo existente? Acceder",
+    "sign_up_page_—_mobile__•••••••••••••": "••••••••••••••",
+    "sign_up_page_—_mobile__sign_up": "Incribirse",
+    "log_in_page_—_mobile__john@better.com": "john@better.com",
+    "log_in_page_—_mobile__log_in_with_google": "Inicia sesión con Google",
+    "sign_up_page_—_mobile__or_sign_up_with_your_email": "Ou rexístrate co teu correo electrónico ",
+    "sign_up_page_—_mobile__better": "Mellor",
+    "sign_up_page_—_mobile__sign_up_with_google": "Rexístrate con Google",
+    "sign_up_page_—_mobile__better@lokalise.com": "mellor@lokalise.com",
+    "sign_up_page_—_mobile__full_name": "Nome completo",
+    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Ao rexistrarte, aceptas as nosas <u> Condicións de servizo <\/u> e a <u> Política de privacidade <\/u> .",
+    "sign_up_page_—_mobile__e-mail": "Correo electrónico",
+    "menu": {
+        "home": "Casa",
+        "about": "Sobre",
+        "privacy": "Política de Privacidade"
+    },
+    "main": {
+        "welcome": "Ola dende Lokalise!",
+        "about": "Sobre nós",
+        "new_message": "sen mensaxes | unha mensaxe | {count} mensaxes",
+        "tms": "Lokalise é un TMS",
+        "g2": "Lea sobre nós en G2",
+        "get2know": "Coñece mellor Lokalise",
+        "get2know_message": "O noso obxectivo é eliminar a molestia da localización proporcionando ferramentas para automatizar, integrar e xestionar mellor as súas traducións. Lokalise é unha mellor forma para que as empresas orientadas ao crecemento expandan as súas aplicacións móbiles, xogos, software ou contido dixital\n varios idiomas.",
+        "sign-in": "Inicia sesión con Google",
+        "register-button": "Rexistrarse",
+        "this-is-a-tobii-demo-key": "pequena mensaxe",
+        "demo-key-konnect": "mensaxe de konnect",
+        "demo-key-purple": "ola-roxo",
+        "demo-key-purple2": "ola-idoo"
+    },
+    "about": {
+        "welcome": "Benvido á páxina Acerca de!"
+    }
+}

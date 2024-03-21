@@ -1,0 +1,41 @@
+{
+    "group_843__log_in": "Giriş yapmak",
+    "log_in_page_—_mobile__password": "Şifre",
+    "log_in_page_—_mobile__log_in_with_sso": "SSO ile giriş yapın",
+    "log_in_page_—_mobile__username": "Kullanıcı adı",
+    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "Bunun yerine mevcut bir ekibe katılmak mı istiyorsunuz? Giriş yapmak",
+    "sign_up_page_—_mobile__•••••••••••••": "•••••••••••••",
+    "sign_up_page_—_mobile__sign_up": "Üye olmak",
+    "log_in_page_—_mobile__john@better.com": "john@better.com",
+    "log_in_page_—_mobile__log_in_with_google": "Google ile Giriş Yapın",
+    "sign_up_page_—_mobile__or_sign_up_with_your_email": "Veya e-postanızla kaydolun ",
+    "sign_up_page_—_mobile__better": "Daha iyi",
+    "sign_up_page_—_mobile__sign_up_with_google": "Google'a kaydolun",
+    "sign_up_page_—_mobile__better@lokalise.com": "daha iyi@lokalise.com",
+    "sign_up_page_—_mobile__full_name": "Ad Soyad",
+    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Kaydolarak <u> Hizmet Şartlarımızı <\/u> ve <u> Gizlilik Politikamızı <\/u> kabul etmiş olursunuz.",
+    "sign_up_page_—_mobile__e-mail": "E-posta",
+    "menu": {
+        "home": "Ana Sayfa",
+        "about": "Hakkında",
+        "privacy": "Gizlilik Politikası"
+    },
+    "main": {
+        "welcome": "Lokalise'den Merhaba!",
+        "about": "Biz hakkında",
+        "new_message": "hiç mesaj yok | bir mesaj | {count} mesaj",
+        "tms": "Lokalise bir TMS'dir",
+        "g2": "G2'de hakkımızda okuyun",
+        "get2know": "Lokalise'yi daha iyi tanıyın",
+        "get2know_message": "Amacımız çevirilerinizi otomatikleştirmeye, entegre etmeye ve daha iyi yönetmeye yönelik araçlar sağlayarak yerelleştirme sorununu ortadan kaldırmaktır. Lokalise, büyüme odaklı şirketlerin mobil uygulamalarını, oyunlarını, yazılımlarını veya dijital içeriklerini genişletmeleri için daha iyi bir yoldur.\n birden fazla dil.",
+        "sign-in": "Google ile giriş yap",
+        "register-button": "Kayıt olmak",
+        "this-is-a-tobii-demo-key": "küçük mesaj",
+        "demo-key-konnect": "mesajı bağla",
+        "demo-key-purple": "merhaba-mor",
+        "demo-key-purple2": "merhaba-idoo"
+    },
+    "about": {
+        "welcome": "Hakkında sayfasına hoş geldiniz!"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "group_843__log_in": "Se connecter",
+    "log_in_page_—_mobile__password": "Mot de passe",
+    "log_in_page_—_mobile__log_in_with_sso": "Connectez-vous avec SSO",
+    "log_in_page_—_mobile__username": "Nom d'utilisateur",
+    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "Vous souhaitez plutôt rejoindre une équipe existante ? Se connecter",
+    "sign_up_page_—_mobile__•••••••••••••": "•••••••••••••",
+    "sign_up_page_—_mobile__sign_up": "S'inscrire",
+    "log_in_page_—_mobile__john@better.com": "john@better.com",
+    "log_in_page_—_mobile__log_in_with_google": "Connectez-vous avec Google",
+    "sign_up_page_—_mobile__or_sign_up_with_your_email": "Ou inscrivez-vous avec votre email ",
+    "sign_up_page_—_mobile__better": "Mieux",
+    "sign_up_page_—_mobile__sign_up_with_google": "Inscrivez-vous avec Google",
+    "sign_up_page_—_mobile__better@lokalise.com": "mieux@lokalise.com",
+    "sign_up_page_—_mobile__full_name": "Nom et prénom",
+    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "En vous inscrivant, vous acceptez nos <u> Conditions d'utilisation <\/u> et <u> Politique de confidentialité <\/u> .",
+    "sign_up_page_—_mobile__e-mail": "E-mail",
+    "menu": {
+        "home": "Maison",
+        "about": "À propos",
+        "privacy": "politique de confidentialité"
+    },
+    "main": {
+        "welcome": "Bonjour de Lokalise !",
+        "about": "À propos de nous",
+        "new_message": "aucun message | un message | {count} messages",
+        "tms": "Lokalise est un TMS",
+        "g2": "Découvrez-nous sur G2",
+        "get2know": "Mieux connaître Lokalise",
+        "get2know_message": "Notre objectif est d'éliminer les tracas liés à la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est un meilleur moyen pour les entreprises en croissance d'étendre leurs applications mobiles, leurs jeux, leurs logiciels ou leur contenu numérique à\n plusieurs langues.",
+        "sign-in": "Connectez-vous avec Google",
+        "register-button": "Registre",
+        "this-is-a-tobii-demo-key": "petit message",
+        "demo-key-konnect": "message de connexion",
+        "demo-key-purple": "bonjour-violet",
+        "demo-key-purple2": "bonjour-idoo"
+    },
+    "about": {
+        "welcome": "Bienvenue sur la page À propos !"
+    }
+}
