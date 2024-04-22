@@ -1,20 +1,4 @@
 {
-    "group_843__log_in": "Login",
-    "log_in_page_—_mobile__password": "Parola d'ordine",
-    "log_in_page_—_mobile__log_in_with_sso": "Accedi con SSO",
-    "log_in_page_—_mobile__username": "Nome utente",
-    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "Vuoi invece unirti a un team esistente? Login",
-    "sign_up_page_—_mobile__•••••••••••••": "••••••••••••••",
-    "sign_up_page_—_mobile__sign_up": "Iscrizione",
-    "log_in_page_—_mobile__john@better.com": "giovanni@better.com",
-    "log_in_page_—_mobile__log_in_with_google": "Accedi con Google",
-    "sign_up_page_—_mobile__or_sign_up_with_your_email": "Oppure registrati con la tua email ",
-    "sign_up_page_—_mobile__better": "Meglio",
-    "sign_up_page_—_mobile__sign_up_with_google": "Iscriviti con Google",
-    "sign_up_page_—_mobile__better@lokalise.com": "better@lokalise.com",
-    "sign_up_page_—_mobile__full_name": "Nome e cognome",
-    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Iscrivendoti, accetti i nostri <u> Termini di servizio <\/u> e la <u> Informativa sulla privacy <\/u> .",
-    "sign_up_page_—_mobile__e-mail": "E-mail",
     "menu": {
         "home": "Casa",
         "about": "Di",
@@ -33,7 +17,9 @@
         "this-is-a-tobii-demo-key": "piccolo messaggio",
         "demo-key-konnect": "messaggio di connessione",
         "demo-key-purple": "ciao-viola",
-        "demo-key-purple2": "ciao-idoo"
+        "demo-key-purple2": "ciao-idoo",
+        "demo-key-infront": "ciao di fronte",
+        "demo-key2": "Ciao!!"
     },
     "about": {
         "welcome": "Benvenuti nella pagina Informazioni!"
