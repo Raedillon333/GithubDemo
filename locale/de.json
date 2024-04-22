@@ -1,20 +1,4 @@
 {
-    "group_843__log_in": "Anmeldung",
-    "log_in_page_—_mobile__password": "Passwort",
-    "log_in_page_—_mobile__log_in_with_sso": "Melden Sie sich mit SSO an",
-    "log_in_page_—_mobile__username": "Nutzername",
-    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "Möchten Sie stattdessen einem bestehenden Team beitreten? Anmeldung",
-    "sign_up_page_—_mobile__•••••••••••••": "•································-·············",
-    "sign_up_page_—_mobile__sign_up": "Melden Sie sich an",
-    "log_in_page_—_mobile__john@better.com": "john@better.com",
-    "log_in_page_—_mobile__log_in_with_google": "Melden Sie sich mit Google an",
-    "sign_up_page_—_mobile__or_sign_up_with_your_email": "Oder melden Sie sich mit Ihrer E-Mail-Adresse an ",
-    "sign_up_page_—_mobile__better": "Besser",
-    "sign_up_page_—_mobile__sign_up_with_google": "Melden Sie sich bei Google an",
-    "sign_up_page_—_mobile__better@lokalise.com": "better@lokalise.com",
-    "sign_up_page_—_mobile__full_name": "Vollständiger Name",
-    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Mit der Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzerklärung <\/u> .",
-    "sign_up_page_—_mobile__e-mail": "Email",
     "menu": {
         "home": "Zuhause",
         "about": "Über",
@@ -31,9 +15,11 @@
         "sign-in": "Mit Google anmelden",
         "register-button": "Registrieren",
         "this-is-a-tobii-demo-key": "kleine Nachricht",
-        "demo-key-konnect": "Verbindungsnachricht",
+        "demo-key-konnect": "Konnect-Nachricht",
         "demo-key-purple": "hallo-lila",
-        "demo-key-purple2": "hallo-idoo"
+        "demo-key-purple2": "hallo-idoo",
+        "demo-key-infront": "hallo vorn",
+        "demo-key2": "Hallo!!"
     },
     "about": {
         "welcome": "Willkommen auf der About-Seite!"
