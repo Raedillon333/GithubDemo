@@ -1,41 +1,24 @@
 {
-    "group_843__log_in": "Anmeldung",
-    "log_in_page_—_mobile__password": "Passwort",
-    "log_in_page_—_mobile__log_in_with_sso": "Melden Sie sich mit SSO an",
-    "log_in_page_—_mobile__username": "Nutzername",
-    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "Möchten Sie stattdessen einem bestehenden Team beitreten? Anmeldung",
-    "sign_up_page_—_mobile__•••••••••••••": "•································-·············",
-    "sign_up_page_—_mobile__sign_up": "Melden Sie sich an",
-    "log_in_page_—_mobile__john@better.com": "john@better.com",
-    "log_in_page_—_mobile__log_in_with_google": "Melden Sie sich mit Google an",
-    "sign_up_page_—_mobile__or_sign_up_with_your_email": "Oder melden Sie sich mit Ihrer E-Mail-Adresse an ",
-    "sign_up_page_—_mobile__better": "Besser",
-    "sign_up_page_—_mobile__sign_up_with_google": "Melden Sie sich bei Google an",
-    "sign_up_page_—_mobile__better@lokalise.com": "better@lokalise.com",
-    "sign_up_page_—_mobile__full_name": "Vollständiger Name",
-    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Mit der Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzerklärung <\/u> .",
-    "sign_up_page_—_mobile__e-mail": "Email",
-    "menu": {
-        "home": "Zuhause",
-        "about": "Über",
-        "privacy": "Datenschutzrichtlinie"
+    "group_843": {
+        "log_in": "Anmelden"
     },
-    "main": {
-        "welcome": "Hallo von Lokalise!",
-        "about": "Über uns",
-        "new_message": "keine Nachrichten | eine Nachricht | {count} Nachrichten",
-        "tms": "Lokalise ist ein TMS",
-        "g2": "Lesen Sie über uns auf G2",
-        "get2know": "Lernen Sie Lokalise besser kennen",
-        "get2know_message": "Unser Ziel ist es, den Aufwand der Lokalisierung zu eliminieren, indem wir Tools zur Automatisierung, Integration und besseren Verwaltung Ihrer Übersetzungen bereitstellen. Lokalise ist ein besserer Weg für wachstumsorientierte Unternehmen, ihre mobilen Apps, Spiele, Software oder digitalen Inhalte in mehrere Sprachen zu erweitern.",
-        "sign-in": "Mit Google anmelden",
-        "register-button": "Registrieren",
-        "this-is-a-tobii-demo-key": "kleine Nachricht",
-        "demo-key-konnect": "Verbindungsnachricht",
-        "demo-key-purple": "hallo-lila",
-        "demo-key-purple2": "hallo-idoo"
+    "log_in_page_—_mobile": {
+        "password": "Passwort",
+        "log_in_with_sso": "Mit SSO anmelden",
+        "username": "Benutzername",
+        "john@better.com": "john@better.com",
+        "log_in_with_google": "Mit Google anmelden"
     },
-    "about": {
-        "welcome": "Willkommen auf der About-Seite!"
+    "sign_up_page_—_mobile": {
+        "looking_to_join_an_existing_team_instead?_log_in": "Möchten Sie stattdessen einem bestehenden Team beitreten? Loggen Sie sich ein",
+        "•••••••••••••": "•••••••••••••",
+        "sign_up": "Registrieren",
+        "or_sign_up_with_your_email": "Oder melden Sie sich mit Ihrer E-Mail an",
+        "better": "Besser",
+        "sign_up_with_google": "Mit Google registrieren",
+        "better@lokalise.com": "better@lokalise.com",
+        "full_name": "Vollständiger Name",
+        "by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Mit Ihrer Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzerklärung <\/u> .",
+        "e-mail": "Email"
     }
 }

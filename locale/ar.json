@@ -1,41 +1,24 @@
 {
-    "group_843__log_in": "تسجيل الدخول",
-    "log_in_page_—_mobile__password": "كلمة المرور",
-    "log_in_page_—_mobile__log_in_with_sso": "تسجيل الدخول باستخدام SSO",
-    "log_in_page_—_mobile__username": "اسم المستخدم",
-    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "هل تتطلع إلى الانضمام إلى فريق حالي بدلاً من ذلك؟ تسجيل الدخول",
-    "sign_up_page_—_mobile__•••••••••••••": "•••••••••••••",
-    "sign_up_page_—_mobile__sign_up": "اشتراك",
-    "log_in_page_—_mobile__john@better.com": "جون@better.com",
-    "log_in_page_—_mobile__log_in_with_google": "تسجيل الدخول عبر جوجل",
-    "sign_up_page_—_mobile__or_sign_up_with_your_email": "أو قم بالتسجيل باستخدام بريدك الإلكتروني ",
-    "sign_up_page_—_mobile__better": "أحسن",
-    "sign_up_page_—_mobile__sign_up_with_google": "قم بالتسجيل مع جوجل",
-    "sign_up_page_—_mobile__better@lokalise.com": "Better@lokalise.com",
-    "sign_up_page_—_mobile__full_name": "الاسم الكامل",
-    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "من خلال التسجيل، فإنك تقبل <u> شروط الخدمة <\/u> و <u> سياسة الخصوصية <\/u> .",
-    "sign_up_page_—_mobile__e-mail": "بريد إلكتروني",
-    "menu": {
-        "home": "الصفحة الرئيسية",
-        "about": "حول",
-        "privacy": "سياسة الخصوصية"
+    "group_843": {
+        "log_in": "تسجيل الدخول"
     },
-    "main": {
-        "welcome": "مرحبًا من Lokalise!",
-        "about": "معلومات عنا",
-        "new_message": "لا رسائل | رسالة واحدة | {count} رسائل",
-        "tms": "تعد Lokalise نظامًا لإدارة الترجمة",
-        "g2": "اقرأ عنا على G2",
-        "get2know": "تعرف على Lokalise بشكل أفضل",
-        "get2know_message": "هدفنا هو التخلص من متاعب الترجمة من خلال توفير أدوات لأتمتة ترجماتك ودمجها وإدارتها بشكل أفضل. تعد Lokalise طريقة أفضل للشركات الموجهة نحو النمو لتوسيع تطبيقاتها أو ألعابها أو برامجها أو محتواها الرقمي على الأجهزة المحمولة\n لغات متعددة.",
-        "sign-in": "الدخول مع جوجل",
-        "register-button": "يسجل",
-        "this-is-a-tobii-demo-key": "رسالة صغيرة",
-        "demo-key-konnect": "رسالة الاتصال",
-        "demo-key-purple": "مرحبا الأرجواني",
-        "demo-key-purple2": "مرحبا ايدو"
+    "log_in_page_—_mobile": {
+        "password": "كلمة السر",
+        "log_in_with_sso": "تسجيل الدخول باستخدام SSO",
+        "username": "اسم المستخدم",
+        "john@better.com": "john@better.com",
+        "log_in_with_google": "الدخول مع جوجل"
     },
-    "about": {
-        "welcome": "مرحبا بكم في صفحة حول!"
+    "sign_up_page_—_mobile": {
+        "looking_to_join_an_existing_team_instead?_log_in": "هل تبحث عن الانضمام إلى فريق موجود بدلاً من ذلك؟ سجل الدخول",
+        "•••••••••••••": "•••••••••••••",
+        "sign_up": "سجل",
+        "or_sign_up_with_your_email": "أو قم بالتسجيل باستخدام بريدك الإلكتروني",
+        "better": "أفضل",
+        "sign_up_with_google": "سجل مع جوجل",
+        "better@lokalise.com": "better@lokalise.com",
+        "full_name": "الاسم الكامل",
+        "by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "بالتسجيل، أنت تقبل <u>شروط الخدمة<\/u> و <u>سياسة الخصوصية<\/u> لدينا.",
+        "e-mail": "البريد الإلكتروني"
     }
 }
