@@ -1,41 +1,18 @@
 {
     "group_843__log_in": "ログイン",
     "log_in_page_—_mobile__password": "パスワード",
-    "log_in_page_—_mobile__log_in_with_sso": "SSOでログインする",
+    "log_in_page_—_mobile__log_in_with_sso": "SSOでログイン",
     "log_in_page_—_mobile__username": "ユーザー名",
-    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "代わりに既存のチームに参加したいですか?ログイン",
+    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "既存のチームに参加したいですか? ログイン",
     "sign_up_page_—_mobile__•••••••••••••": "•••••••••••••",
     "sign_up_page_—_mobile__sign_up": "サインアップ",
-    "log_in_page_—_mobile__john@better.com": "ジョン@better.com",
+    "log_in_page_—_mobile__john@better.com": "連絡先",
     "log_in_page_—_mobile__log_in_with_google": "Googleでログイン",
-    "sign_up_page_—_mobile__or_sign_up_with_your_email": "またはメールアドレスでサインアップしてください ",
+    "sign_up_page_—_mobile__or_sign_up_with_your_email": "またはメールアドレスで登録 ",
     "sign_up_page_—_mobile__better": "より良い",
-    "sign_up_page_—_mobile__sign_up_with_google": "Google に登録する",
-    "sign_up_page_—_mobile__better@lokalise.com": "better@localise.com",
+    "sign_up_page_—_mobile__sign_up_with_google": "Googleでサインアップ",
+    "sign_up_page_—_mobile__better@lokalise.com": "お問い合わせ",
     "sign_up_page_—_mobile__full_name": "フルネーム",
-    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "サインアップすると、 <u>利用規約<\/u>と<u>プライバシー ポリシー<\/u>に同意したことになります。",
-    "sign_up_page_—_mobile__e-mail": "Eメール",
-    "menu": {
-        "home": "家",
-        "about": "について",
-        "privacy": "プライバシーポリシー"
-    },
-    "main": {
-        "welcome": "ロカリーズからこんにちは！",
-        "about": "私たちについて",
-        "new_message": "メッセージはありません | 1 つのメッセージ | {count}件のメッセージ",
-        "tms": "Lokalise は TMS です",
-        "g2": "G2 で当社について読む",
-        "get2know": "Lokaliseをもっとよく知る",
-        "get2know_message": "私たちの目標は、翻訳を自動化、統合し、より適切に管理するためのツールを提供することで、ローカリゼーションの煩わしさを解消することです。 Lokalise は、成長志向の企業がモバイル アプリ、ゲーム、ソフトウェア、デジタル コンテンツを拡張するためのより良い方法です。\n複数の言語。",
-        "sign-in": "Googleでサインインする",
-        "register-button": "登録する",
-        "this-is-a-tobii-demo-key": "小さなメッセージ",
-        "demo-key-konnect": "接続メッセージ",
-        "demo-key-purple": "こんにちは、紫",
-        "demo-key-purple2": "こんにちは、イドー"
-    },
-    "about": {
-        "welcome": "概要ページへようこそ!"
-    }
+    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "サインアップすると、弊社の<u>利用規約<\/u>および<u>プライバシー ポリシー<\/u>に同意したことになります。",
+    "sign_up_page_—_mobile__e-mail": "Eメール"
 }
