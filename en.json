@@ -13,14 +13,7 @@
         "get2know": "Get to know Lokalise better",
         "get2know_message": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into \n multiple languages.",
         "sign-in": "Sign-in with Google",
-        "register-button": "Register",
-        "this-is-a-tobii-demo-key": "small message", 
-        "demo-key-konnect": "konnect message",
-        "demo-key-purple" : "hello-purple",
-        "demo-key-purple2":"hello-idoo",
-        "demo-key-infront": "helo infront", 
-        "demo-key2" : "hello!!",
-        "demo-key-dm" : "hey everyone"
+        "register-button": "Register"
        
      
     },
