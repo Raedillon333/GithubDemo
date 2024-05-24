@@ -1,0 +1,21 @@
+{
+    "menu": {
+        "home": "Rumah",
+        "about": "Tentang",
+        "privacy": "Kebijakan pribadi"
+    },
+    "main": {
+        "welcome": "Halo dari Lokalise!",
+        "about": "Tentang kami",
+        "new_message": "tidak ada pesan | satu pesan | {count} pesan",
+        "tms": "Lokalisasi adalah TMS",
+        "g2": "Baca tentang kami di G2",
+        "get2know": "Kenali Lokalise lebih baik",
+        "get2know_message": "Tujuan kami adalah menghilangkan kerumitan pelokalan dengan menyediakan alat untuk mengotomatisasi, mengintegrasikan, dan mengelola terjemahan Anda dengan lebih baik. Lokalise adalah cara yang lebih baik bagi perusahaan yang berorientasi pada pertumbuhan untuk memperluas aplikasi seluler, game, perangkat lunak, atau konten digital mereka\n beberapa bahasa.",
+        "sign-in": "Masuk dengan Google",
+        "register-button": "Daftar"
+    },
+    "about": {
+        "welcome": "Selamat datang di halaman Tentang!"
+    }
+}
