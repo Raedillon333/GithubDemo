@@ -1,20 +1,4 @@
 {
-    "group_843__log_in": "Log In",
-    "log_in_page_—_mobile__password": "Password",
-    "log_in_page_—_mobile__log_in_with_sso": "Log in with SSO",
-    "log_in_page_—_mobile__username": "Username",
-    "sign_up_page_—_mobile__looking_to_join_an_existing_team_instead?_log_in": "Looking to join an existing team instead? Log In",
-    "sign_up_page_—_mobile__•••••••••••••": "•••••••••••••",
-    "sign_up_page_—_mobile__sign_up": "Sign Up",
-    "log_in_page_—_mobile__john@better.com": "john@better.com",
-    "log_in_page_—_mobile__log_in_with_google": "Log In with Google",
-    "sign_up_page_—_mobile__or_sign_up_with_your_email": "Or sign up with your email ",
-    "sign_up_page_—_mobile__better": "Better",
-    "sign_up_page_—_mobile__sign_up_with_google": "Sign Up with Google",
-    "sign_up_page_—_mobile__better@lokalise.com": "better@lokalise.com",
-    "sign_up_page_—_mobile__full_name": "Full name",
-    "sign_up_page_—_mobile__by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "By signing up, you accept our <u>Terms of Service<\/u> and <u>Privacy Policy<\/u>.",
-    "sign_up_page_—_mobile__e-mail": "E-mail",
     "menu": {
         "home": "Home",
         "about": "About",
@@ -23,17 +7,14 @@
     "main": {
         "welcome": "Hello from Lokalise!",
         "about": "About us",
-        "new_message": "no messages | one message | {count} messages",
+        "new_message": "no messages | one message | %1$s messages",
         "tms": "Lokalise is a TMS",
         "g2": "Read about us on G2",
         "get2know": "Get to know Lokalise better",
         "get2know_message": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into \n multiple languages.",
         "sign-in": "Sign-in with Google",
         "register-button": "Register",
-        "this-is-a-tobii-demo-key": "small message",
-        "demo-key-konnect": "konnect message",
-        "demo-key-purple": "hello-purple",
-        "demo-key-purple2": "hello-idoo"
+        "new-key": "hello"
     },
     "about": {
         "welcome": "Welcome to the About page!"
